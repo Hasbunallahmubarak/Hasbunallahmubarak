@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences from [my portfolio](https://hasbunallahmubarak.github.io/Hmabiola-Portfolio)
 
-- ⚡ Fun fact **I love  [impacting knowledge](https://hasbunallahmubarak.github.io/Hmabiola/**
+- ⚡ Fun fact **I love  [impacting knowledge](https://hasbunallahmubarak.github.io/Hmabiola/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
