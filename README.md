@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, Hasbunallah Mubarak</h1>
+<h1 align="center">Hi 👋,I'm Hasbunallah Mubarak</h1>
 <h3 align="center">A result-driven front-end developer</h3>
 
 - 🔭 I’m currently working on **on improving my skills and keeping up to date with emerging technologies in my field of specialization**
@@ -31,11 +31,12 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **HTML, CSS, SASS and JavaScript**
 
-- 📫 How to reach me **hasbunallahmubarak@gmail.com**
+- 📫 How to reach me **hasbunallahmubarak@gmail.com** 
 
-- 📄 Know about my experiences from [my portfolio](https://hasbunallahmubarak.github.io/Hmabiola-Portfolio)
+- 📄 Know about my experiences from [my portfolio](https://hasbunallahmubarak.github.io/Hmabiola)
+- 
+- 🌐 Check out my website [Hmabiola_website](https://hasbunallahmubarak.github.io/Hmabiola-Portfolio)
 
-- ⚡ Fun fact **I love  [impacting knowledge](https://hasbunallahmubarak.github.io/Hmabiola/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
