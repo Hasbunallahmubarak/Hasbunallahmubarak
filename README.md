@@ -21,15 +21,15 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **on improving my skills and keeping up to date with emerging technologies in my field of specialization**
 
-- 🌱 I’m currently building with **HTML5, CSS3, SASS and Javascript.**
+- 🌱 I’m currently building with **HTML5, CSS3, SASS/SCSS, Bootstrap, Javascript, jQuery and React**
 
-- 📝 I'm currently studying Bootstrap from [w3schools](https://www.w3schools.com)
+- 📝 I'm currently studying Typescript from [w3schools](https://www.w3schools.com)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hasbunallahmubarak](https://github.com/Hasbunallahmubarak)
 
 - 🤔 I’m looking for help with **securing an internship position**
 
-- 💬 Ask me about **HTML, CSS, SASS and JavaScript**
+- 💬 Ask me about **HTML, CSS, SASS, Bootstrap, JavaScript, jQuery and React**
 
 - 📫 How to reach me **hasbunallahmubarak@gmail.com** 
 
