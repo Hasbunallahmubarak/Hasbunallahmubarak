@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hasbunallahmubarak](https://github.com/Hasbunallahmubarak)
 
-- 🤔 I’m looking for help with **securing an internship position**
+- 🤔 I’m looking for help with **securing a junior developer role**
 
 - 💬 Ask me about **HTML, CSS, SASS, Bootstrap, JavaScript, jQuery and React**
 
